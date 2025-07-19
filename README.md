@@ -13,8 +13,11 @@ I made as introduction for myself to PCB design, and also can be used as minimal
 Together it fits using two 3D printed parts, that are kept together with four M3 screws and heatset inserts.
 (Angled stand coming soon, to have same angle as my main keyboard)
 
-
+All together
 <img src=assets/onshape.png alt="CAD" width="450"/>
+
+Case only
+<img src=assets/case.png alt="Opened case" width="450"/>
 
 Made with OnShape.
 
