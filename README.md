@@ -13,11 +13,14 @@ I made as introduction for myself to PCB design, and also can be used as minimal
 Together it fits using two 3D printed parts, that are kept together with four M3 screws and heatset inserts.
 (Angled stand coming soon, to have same angle as my main keyboard)
 
-All together
+
 <img src=assets/onshape.png alt="CAD" width="450"/>
 
-Case only
+All together
+
 <img src=assets/case.png alt="Opened case" width="450"/>
+
+Case only
 
 Made with OnShape.
 
@@ -29,14 +32,21 @@ Made in Kicad (my first time!). Included also 3D models that I used (they are fr
 Schematic
 
 <img src=assets/schematic.png alt="Schematic" width="450"/>
+
 PCB
 
 <img src=assets/pcb_design.png alt="PCB Design" width="450"/>
+<img src=assets/pcb_render.png alt="PCB render" width="450"/>
 
 Also tried using Ground plane and thicker traces for 5V to OLED for stability.
 
 ## Firmware
-TODO: Make the actual firmware lol
+
+For now QMK only, might do a KMK version.
+
+OLED is not yet implemented, everything else should work.
+Basic functionality tested with a Raspberry Pico and a dupont cable :)
+Works!
 
 ## Bill of Materials
 Hopefully everything that I used:

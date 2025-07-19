@@ -1,0 +1,10 @@
+#define ENCODER_A_PINS { GP0 }
+#define ENCODER_B_PINS { GP1 }
+
+// Not implemented yet
+
+//#define I2C_DRIVER I2CD1
+//#define I2C1_SDA_PIN GP6
+//#define I2C1_SCL_PIN GP7
+
+
