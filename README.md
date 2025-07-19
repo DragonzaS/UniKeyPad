@@ -44,9 +44,9 @@ Hopefully everything that I used:
 
 - 11x Cherry MX Switches
 - 11x DSA Keycaps
-- 5x 1N4148 Diodes
+- 11x 1N4148 Diodes
 - 4x M3x5x4 Heatset inserts
-- 4X M3x12mm SHCS Bolts
+- 4x M3x12mm SHCS Bolts
 - 1x 0.91" 128x32 OLED Display
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
