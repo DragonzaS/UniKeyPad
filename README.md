@@ -1,2 +1,51 @@
 # UniKeyPad
-Small mechanical macropad, with an rotary encoder and tiny OLED display. Can be used as a compact numpad
+UniKeyPad is a 11 key macropad, with a rotary encoder and an OLED display. Uses QMK firmware!
+
+I made as introduction for myself to PCB design, and also can be used as minimal numberpad companion for my current TKL keyboard.
+
+## Features
+- Simple, two part 3D printed case
+- one Rotary Encoder for mode selection, together with 128x32 OLED display for friendly UI.
+- 11 Customizable keys
+
+## Case
+
+Together it fits using two 3D printed parts, that are kept together with four M3 screws and heatset inserts.
+(Angled stand coming soon, to have same angle as my main keyboard)
+
+TODO: add images
+<img src=assets/onshape.png alt="Schematic" width="450"/>
+Made with OnShape.
+
+## PCB
+
+Made in Kicad (my first time!). Included also 3D models that I used (they are from GrabCad), it was quite a pain to get them working.
+
+Schematic
+TODO: add images
+
+PCB
+TODO: add images
+
+Also tried using Ground plane and thicker traces for 5V to OLED for stability.
+
+## Firmware
+TODO: Make the actual firmware lol
+
+## Bill of Materials
+Hopefully everything that I used:
+
+
+- 11x Cherry MX Switches
+- 11x DSA Keycaps
+- 4x M3x5x4 Heatset inserts
+- 4X M3x12mm SHCS Bolts
+- 1x 0.91" 128x32 OLED Display
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x Case, two 3D printed parts (I can print them myself)
+
+## Extra
+I enjoyed making it!
+
+Possible thanks to HackClub!
