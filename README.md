@@ -18,6 +18,7 @@ Together it fits using two 3D printed parts, that are kept together with four M3
 
 Made with OnShape.
 
+(To the reviewer: I added a simplified CAD file, without the switches, the full size one is very big!)
 ## PCB
 
 Made in Kicad (my first time!). Included also 3D models that I used (they are from GrabCad), it was quite a pain to get them working.
