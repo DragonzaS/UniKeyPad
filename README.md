@@ -13,8 +13,9 @@ I made as introduction for myself to PCB design, and also can be used as minimal
 Together it fits using two 3D printed parts, that are kept together with four M3 screws and heatset inserts.
 (Angled stand coming soon, to have same angle as my main keyboard)
 
-TODO: add images
-<img src=assets/onshape.png alt="Schematic" width="450"/>
+
+<img src=assets/onshape.png alt="CAD" width="450"/>
+
 Made with OnShape.
 
 ## PCB
@@ -22,10 +23,11 @@ Made with OnShape.
 Made in Kicad (my first time!). Included also 3D models that I used (they are from GrabCad), it was quite a pain to get them working.
 
 Schematic
-TODO: add images
 
+<img src=assets/schematic.png alt="Schematic" width="450"/>
 PCB
-TODO: add images
+
+<img src=assets/pcb_design.png alt="PCB Design" width="450"/>
 
 Also tried using Ground plane and thicker traces for 5V to OLED for stability.
 
