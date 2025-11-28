@@ -35,7 +35,7 @@ Schematic
 
 PCB
 
-<img src=assets/pcb_design.png alt="PCB Design" width="450"/>
+<img src=assets/pcb_design.png alt="PCB_Design" width="450"/>
 <img src=assets/pcb_render.png alt="PCB render" width="450"/>
 
 Also tried using Ground plane and thicker traces for 5V to OLED for stability.
